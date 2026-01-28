@@ -1,3 +1,5 @@
-*.json
-terraform_with_variables/.terraform/providers/
+terraform_with_variables/.terraform/
+terraform_with_variables/keys/my-creds.json
 postgres/
+
+.env
